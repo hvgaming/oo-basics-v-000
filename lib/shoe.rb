@@ -7,7 +7,7 @@ class Shoe
     @brand = brand
   end
  
-  def turn_page
+  def condition
     puts "Your shoe is as good as new!"
   end
  
